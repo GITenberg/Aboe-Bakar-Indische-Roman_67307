@@ -1,0 +1,36 @@
+_repo: Aboe-Bakar-Indische-Roman_67307
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Daum, P. A. (Paul Adriaan)
+    aliases:
+    - Daum, Paul Adriaan
+    - Daum, Paulus Adrianus
+    - Maurits
+    birthdate: 1849
+    deathdate: 1898
+    gutenberg_agent_id: '53277'
+    url: http://www.gutenberg.org/2009/agents/53277
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Paul_Adriaan_Daum
+    - https://en.wikipedia.org/wiki/Paulus_Adrianus_Daum
+description: ''
+gutenberg_issued: '2022-02-03'
+identifiers:
+  gutenberg: '67307'
+language: nl
+pgterms:marc904: https://books.google.com/books?id=1AIpTOQ-97MC
+pgterms:marc905: 20180912122156mauritspse
+pgterms:marc906: '1894'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from scanned images of public domain
+  material from the Google Books project.)
+publication_note: Netherlands :Loman & Funke,1894.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Aboe Bakar: Indische Roman'
+url: http://www.gutenberg.org/ebooks/67307
