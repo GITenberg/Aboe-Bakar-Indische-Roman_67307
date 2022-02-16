@@ -1,5 +1,8 @@
 _repo: Aboe-Bakar-Indische-Roman_67307
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67307-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Daum, P. A. (Paul Adriaan)
@@ -15,6 +18,8 @@ creator:
     - https://nl.wikipedia.org/wiki/Paul_Adriaan_Daum
     - https://en.wikipedia.org/wiki/Paulus_Adrianus_Daum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67307#Aboe-Bakar-Indische-Roman
 gutenberg_issued: '2022-02-03'
 identifiers:
   gutenberg: '67307'
